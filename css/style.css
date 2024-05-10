@@ -222,7 +222,11 @@ footer{
     font-size: 130%;
 
 }
-
+ 
 .info p{
-    font-size:27px;
+    font-size:28px;
+}
+
+.clear{
+    clear: both;
 }
